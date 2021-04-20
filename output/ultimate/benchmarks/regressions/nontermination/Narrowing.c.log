@@ -1,0 +1,618 @@
+*** 'None', 1 locs, 10 invs (10 Oct), 60 traces, 0 inps, time 1.03s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 60 traces, 0 inps, time 1.01s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 57 traces, 0 inps, time 1.02s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 59 traces, 0 inps, time 0.91s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 53 traces, 0 inps, time 1.02s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 60 traces, 0 inps, time 1.01s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 50 traces, 0 inps, time 1.03s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 50 traces, 0 inps, time 1.02s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 53 traces, 0 inps, time 1.03s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 50 traces, 0 inps, time 0.99s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 51 traces, 0 inps, time 1.03s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 50 traces, 0 inps, time 1.02s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 60 traces, 0 inps, time 1.04s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 50 traces, 0 inps, time 1.03s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 53 traces, 0 inps, time 1.02s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 58 traces, 0 inps, time 0.88s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 53 traces, 0 inps, time 0.87s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 58 traces, 0 inps, time 0.89s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 58 traces, 0 inps, time 0.99s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 58 traces, 0 inps, time 1.03s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 54 traces, 0 inps, time 1.05s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 50 traces, 0 inps, time 0.89s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 53 traces, 0 inps, time 0.86s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 58 traces, 0 inps, time 0.95s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 58 traces, 0 inps, time 0.86s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 59 traces, 0 inps, time 0.97s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 58 traces, 0 inps, time 0.97s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 58 traces, 0 inps, time 0.90s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 60 traces, 0 inps, time 0.79s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 58 traces, 0 inps, time 0.78s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 58 traces, 0 inps, time 0.81s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 50 traces, 0 inps, time 0.93s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 55 traces, 0 inps, time 0.95s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 50 traces, 0 inps, time 0.79s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 53 traces, 0 inps, time 0.77s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 60 traces, 0 inps, time 0.81s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 53 traces, 0 inps, time 0.80s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 60 traces, 0 inps, time 0.90s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 50 traces, 0 inps, time 0.84s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 58 traces, 0 inps, time 0.84s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 53 traces, 0 inps, time 0.93s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 59 traces, 0 inps, time 0.89s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+*** 'None', 1 locs, 10 invs (10 Oct), 58 traces, 0 inps, time 0.92s, rand seed 1618943677.14, test 5 64:
+vtrace2_13 (10 invs):
+1. up <= 1
+2. i - range <= 0
+3. -up <= 0
+4. -range <= -1
+5. -range - up <= -1
+6. -range + up <= 0
+7. -i <= 0
+8. -i - up <= 0
+9. -i - range <= -1
+10. -i + up <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943677.14, test 5 64:
+
+TNT result: None
+Time log:
+gen_rand_inps: 0.074s
+_get_traces_mp: 0.266s
+_merge_traces: 5.315s
+get_traces_from_inps: 5.602s
+infer_ranking_functions: 1.967s
+prove_reach: 9.487s
+validate_ranking_functions: 9.683s
+prove_term_vloop: 11.652s
+_get_symstates_from_src: 27.005s
+_get_loopinfo_from_symstates: 27.041s
+get_loopinfo: 27.041s
+verify: 18.904s
+strengthen: 42.820s
+prove_nonterm_vloop: 90.229s

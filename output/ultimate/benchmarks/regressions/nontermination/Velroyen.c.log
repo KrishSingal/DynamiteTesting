@@ -1,0 +1,15 @@
+TNT result: (False, ('vloop_14', [(ZConj({Not(0 == x)}), [])]))
+Time log:
+gen_rand_inps: 0.073s
+_get_traces_mp: 0.225s
+_merge_traces: 0.107s
+get_traces_from_inps: 0.333s
+infer_ranking_functions: 1.276s
+prove_reach: 7.887s
+validate_ranking_functions: 8.101s
+prove_term_vloop: 9.383s
+_get_symstates_from_src: 20.308s
+_get_loopinfo_from_symstates: 20.339s
+get_loopinfo: 20.339s
+verify: 0.076s
+prove_nonterm_vloop: 20.448s

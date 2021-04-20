@@ -1,0 +1,11 @@
+TNT result: (False, ('vloop_11', [(ZConj({4 >= a + b}), [])]))
+Time log:
+gen_rand_inps: 0.000s
+_get_traces_mp: 0.254s
+_merge_traces: 0.631s
+get_traces_from_inps: 0.885s
+_get_symstates_from_src: 15.400s
+_get_loopinfo_from_symstates: 15.440s
+get_loopinfo: 15.440s
+verify: 0.094s
+prove_nonterm_vloop: 15.574s

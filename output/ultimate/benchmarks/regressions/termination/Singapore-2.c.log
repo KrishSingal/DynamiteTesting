@@ -1,0 +1,48 @@
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618950680.21, test 53 50:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 100 traces, 0 inps, time 2.15s, rand seed 1618950680.21, test 53 50:
+vtrace2_20 (5 invs):
+1. y <= -2
+2. x <= 10
+3. x + y <= -1
+4. -x <= -1
+5. -x + y <= -3
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618950680.21, test 53 50:
+
+*** 'None', 1 locs, 1 invs (1 Oct), 343 traces, 0 inps, time 2.93s, rand seed 1618950680.21, test 53 50:
+vtrace2_20 (1 invs):
+1. x + y <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618950680.21, test 53 50:
+
+*** 'None', 0 locs, 0 invs (), 100 traces, 0 inps, time 2.12s, rand seed 1618950680.21, test 53 50:
+
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618950680.21, test 53 50:
+
+*** 'None', 1 locs, 2 invs (2 Oct), 189 traces, 0 inps, time 2.01s, rand seed 1618950680.21, test 53 50:
+vtrace2_20 (2 invs):
+1. x + y <= -1
+2. -x <= -1
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618950680.21, test 53 50:
+
+*** 'None', 0 locs, 0 invs (), 2 traces, 0 inps, time 0.01s, rand seed 1618950680.21, test 53 50:
+
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618950680.21, test 53 50:
+
+*** 'None', 0 locs, 0 invs (), 2 traces, 0 inps, time 0.01s, rand seed 1618950680.21, test 53 50:
+
+TNT result: (False, ('vloop_20', [(ZConj({Not(0 >= x + y), 1 <= x, Not(x + y <= -1)}), [(0, ZConj({1 <= x})), (1, ZConj({1 <= x, Not(x + y <= -1)}))])]))
+Time log:
+gen_rand_inps: 0.176s
+_get_traces_mp: 1.183s
+_merge_traces: 0.423s
+get_traces_from_inps: 1.611s
+infer_ranking_functions: 0.121s
+prove_reach: 7.715s
+validate_ranking_functions: 7.900s
+prove_term_vloop: 8.023s
+_get_symstates_from_src: 17.834s
+_get_loopinfo_from_symstates: 17.876s
+get_loopinfo: 17.876s
+verify: 9.777s
+strengthen: 9.405s
+prove_nonterm_vloop: 37.278s

@@ -1,0 +1,18 @@
+*** 'None', 1 locs, 2 invs (2 Oct), 6 traces, 0 inps, time 0.83s, rand seed 1618947491.07, test 79 8:
+vtrace2_16 (2 invs):
+1. c <= 0
+2. -c <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618947491.07, test 79 8:
+
+TNT result: (False, ('vloop_16', [(ZConj({c >= 0, 0 <= x}), [(0, ZConj({0 <= x})), (1, ZConj({0 >= c, c >= 0, 0 <= x}))])]))
+Time log:
+gen_rand_inps: 0.152s
+_get_traces_mp: 0.436s
+_merge_traces: 0.222s
+get_traces_from_inps: 0.659s
+_get_symstates_from_src: 14.872s
+_get_loopinfo_from_symstates: 14.900s
+get_loopinfo: 14.900s
+verify: 0.587s
+strengthen: 0.859s
+prove_nonterm_vloop: 16.406s

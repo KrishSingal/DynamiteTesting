@@ -1,0 +1,364 @@
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 6 invs (1 Eqt, 5 Oct), 11 traces, 0 inps, time 2.92s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (6 invs):
+1. x - 1 == 0
+2. x <= 1
+3. x - y <= -6
+4. -y <= -7
+5. -x <= -1
+6. -x - y <= -8
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 22 traces, 0 inps, time 1.50s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (5 invs):
+1. x <= 2
+2. x - y <= -6
+3. -y <= -8
+4. -x <= -1
+5. -x - y <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 9 invs (1 Eqt, 8 Oct), 6 traces, 0 inps, time 1.49s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (9 invs):
+1. x - 1 == 0
+2. y <= 6
+3. x <= 1
+4. x - y <= 0
+5. x + y <= 7
+6. -y <= -1
+7. -x <= -1
+8. -x - y <= -2
+9. -x + y <= 5
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 9 invs (1 Eqt, 8 Oct), 6 traces, 0 inps, time 1.44s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (9 invs):
+1. x - 1 == 0
+2. y <= 6
+3. x <= 1
+4. x - y <= 0
+5. x + y <= 7
+6. -y <= -1
+7. -x <= -1
+8. -x - y <= -2
+9. -x + y <= 5
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 3 invs (3 Oct), 400 traces, 0 inps, time 1.38s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (3 invs):
+1. x - y <= -5
+2. -y <= -8
+3. -x <= -1
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 22 traces, 0 inps, time 1.66s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (5 invs):
+1. x <= 2
+2. x - y <= -6
+3. -y <= -8
+4. -x <= -1
+5. -x - y <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 9 invs (1 Eqt, 8 Oct), 6 traces, 0 inps, time 1.68s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (9 invs):
+1. x - 1 == 0
+2. y <= 6
+3. x <= 1
+4. x - y <= 0
+5. x + y <= 7
+6. -y <= -1
+7. -x <= -1
+8. -x - y <= -2
+9. -x + y <= 5
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 8 invs (8 Oct), 14 traces, 0 inps, time 1.49s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (8 invs):
+1. y <= 7
+2. x <= 2
+3. x - y <= 1
+4. x + y <= 9
+5. -y <= -1
+6. -x <= -1
+7. -x - y <= -2
+8. -x + y <= 6
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 33 traces, 0 inps, time 1.43s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (5 invs):
+1. x <= 3
+2. x - y <= -5
+3. -y <= -8
+4. -x <= -1
+5. -x - y <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 4 invs (4 Oct), 400 traces, 0 inps, time 1.37s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (4 invs):
+1. x - y <= -5
+2. -y <= -7
+3. -x <= -1
+4. -x - y <= -8
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 8 invs (8 Oct), 14 traces, 0 inps, time 1.41s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (8 invs):
+1. y <= 7
+2. x <= 2
+3. x - y <= 1
+4. x + y <= 9
+5. -y <= -1
+6. -x <= -1
+7. -x - y <= -2
+8. -x + y <= 6
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 12 traces, 0 inps, time 1.42s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (5 invs):
+1. y <= 6
+2. x <= 2
+3. x + y <= 8
+4. -x <= -1
+5. -x + y <= 5
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 10 traces, 0 inps, time 1.59s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (5 invs):
+1. x <= 2
+2. x - y <= 1
+3. -y <= -1
+4. -x <= -1
+5. -x - y <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 4 invs (4 Oct), 9 traces, 0 inps, time 1.60s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (4 invs):
+1. x - y <= 1
+2. -y <= -1
+3. -x <= -1
+4. -x - y <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 10 traces, 0 inps, time 1.62s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (5 invs):
+1. x <= 2
+2. x - y <= 1
+3. -y <= -1
+4. -x <= -1
+5. -x - y <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 4 invs (4 Oct), 400 traces, 0 inps, time 1.48s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (4 invs):
+1. x - y <= -5
+2. -y <= -7
+3. -x <= -1
+4. -x - y <= -8
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 1.47s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (1 invs):
+1. x - y <= -5
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 8 invs (8 Oct), 14 traces, 0 inps, time 1.40s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (8 invs):
+1. y <= 7
+2. x <= 2
+3. x - y <= 1
+4. x + y <= 9
+5. -y <= -1
+6. -x <= -1
+7. -x - y <= -2
+8. -x + y <= 6
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 4 invs (4 Oct), 400 traces, 0 inps, time 1.50s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (4 invs):
+1. x - y <= 1
+2. -y <= -1
+3. -x <= -1
+4. -x - y <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 4 invs (4 Oct), 400 traces, 0 inps, time 1.48s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (4 invs):
+1. x - y <= -5
+2. -y <= -7
+3. -x <= -1
+4. -x - y <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 8 invs (8 Oct), 14 traces, 0 inps, time 1.52s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (8 invs):
+1. y <= 7
+2. x <= 2
+3. x - y <= 1
+4. x + y <= 9
+5. -y <= -1
+6. -x <= -1
+7. -x - y <= -2
+8. -x + y <= 6
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 4 invs (4 Oct), 400 traces, 0 inps, time 1.22s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (4 invs):
+1. x - y <= -5
+2. -y <= -7
+3. -x <= -1
+4. -x - y <= -8
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 6 invs (6 Oct), 27 traces, 0 inps, time 1.50s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (6 invs):
+1. x <= 7
+2. x - y <= 6
+3. x + y <= 8
+4. -y <= -1
+5. -x <= -1
+6. -x - y <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 9 invs (1 Eqt, 8 Oct), 6 traces, 0 inps, time 1.60s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (9 invs):
+1. x - 1 == 0
+2. y <= 6
+3. x <= 1
+4. x - y <= 0
+5. x + y <= 7
+6. -y <= -1
+7. -x <= -1
+8. -x - y <= -2
+9. -x + y <= 5
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 6 invs (6 Oct), 3 traces, 0 inps, time 0.07s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (6 invs):
+1. y <= 7
+2. x <= 2
+3. x - y <= -5
+4. x + y <= 9
+5. -x <= -1
+6. -x + y <= 6
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 6 invs (1 Eqt, 5 Oct), 5 traces, 0 inps, time 1.45s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (6 invs):
+1. x - 1 == 0
+2. y <= 5
+3. x <= 1
+4. x + y <= 6
+5. -x <= -1
+6. -x + y <= 4
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 4 invs (4 Oct), 400 traces, 0 inps, time 1.48s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (4 invs):
+1. x - y <= -4
+2. -y <= -5
+3. -x <= -1
+4. -x - y <= -6
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 8 invs (8 Oct), 14 traces, 0 inps, time 1.30s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (8 invs):
+1. y <= 7
+2. x <= 2
+3. x - y <= 1
+4. x + y <= 9
+5. -y <= -1
+6. -x <= -1
+7. -x - y <= -2
+8. -x + y <= 6
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 33 traces, 0 inps, time 1.32s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (5 invs):
+1. x <= 3
+2. x - y <= -5
+3. -y <= -8
+4. -x <= -1
+5. -x - y <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 3 invs (3 Oct), 400 traces, 0 inps, time 1.55s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (3 invs):
+1. x - y <= -5
+2. -x <= -1
+3. -x - y <= -10
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 8 invs (8 Oct), 14 traces, 0 inps, time 1.50s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (8 invs):
+1. y <= 7
+2. x <= 2
+3. x - y <= 1
+4. x + y <= 9
+5. -y <= -1
+6. -x <= -1
+7. -x - y <= -2
+8. -x + y <= 6
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 12 traces, 0 inps, time 1.49s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (5 invs):
+1. y <= 6
+2. x <= 2
+3. x + y <= 8
+4. -x <= -1
+5. -x + y <= 5
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 12 traces, 0 inps, time 1.45s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (5 invs):
+1. y <= 6
+2. x <= 2
+3. x + y <= 8
+4. -x <= -1
+5. -x + y <= 5
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 27 traces, 0 inps, time 1.34s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (5 invs):
+1. y <= 6
+2. x <= 7
+3. x - y <= 1
+4. -x <= -1
+5. -x + y <= 5
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 12 traces, 0 inps, time 1.34s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (5 invs):
+1. y <= 6
+2. x <= 2
+3. x + y <= 8
+4. -x <= -1
+5. -x + y <= 5
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951065.07, test 38 95:
+
+*** 'None', 1 locs, 6 invs (6 Oct), 27 traces, 0 inps, time 1.40s, rand seed 1618951065.07, test 38 95:
+vtrace2_18 (6 invs):
+1. x <= 7
+2. x - y <= 6
+3. x + y <= 8
+4. -y <= -1
+5. -x <= -1
+6. -x - y <= -2
+TNT result: None
+Time log:
+gen_rand_inps: 0.165s
+_get_traces_mp: 1.837s
+_merge_traces: 2.490s
+get_traces_from_inps: 4.348s
+infer_ranking_functions: 1.793s
+prove_reach: 8.018s
+validate_ranking_functions: 8.252s
+prove_term_vloop: 10.048s
+_get_symstates_from_src: 24.207s
+_get_loopinfo_from_symstates: 24.245s
+get_loopinfo: 24.246s
+verify: 37.426s
+strengthen: 55.154s
+prove_nonterm_vloop: 122.034s

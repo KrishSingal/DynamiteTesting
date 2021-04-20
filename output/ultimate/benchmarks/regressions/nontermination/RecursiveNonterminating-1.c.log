@@ -1,0 +1,6 @@
+TNT result: None
+Time log:
+gen_rand_inps: 0.073s
+_get_traces_mp: 0.000s
+_merge_traces: 0.000s
+get_traces_from_inps: 0.000s

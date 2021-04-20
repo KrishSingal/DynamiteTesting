@@ -1,0 +1,11 @@
+TNT result: (False, ('vloop_23', [(ZConj({True}), [])]))
+Time log:
+gen_rand_inps: 0.181s
+_get_traces_mp: 0.183s
+_merge_traces: 0.635s
+get_traces_from_inps: 0.818s
+_get_symstates_from_src: 15.437s
+_get_loopinfo_from_symstates: 15.470s
+get_loopinfo: 15.470s
+verify: 0.088s
+prove_nonterm_vloop: 15.598s

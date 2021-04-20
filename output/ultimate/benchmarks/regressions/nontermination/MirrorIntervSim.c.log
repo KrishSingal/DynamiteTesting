@@ -1,0 +1,15 @@
+TNT result: (False, ('vloop_9', [(ZConj({Not(0 == i)}), [])]))
+Time log:
+gen_rand_inps: 0.068s
+_get_traces_mp: 0.220s
+_merge_traces: 0.101s
+get_traces_from_inps: 0.322s
+infer_ranking_functions: 1.737s
+prove_reach: 7.992s
+validate_ranking_functions: 8.195s
+prove_term_vloop: 9.938s
+_get_symstates_from_src: 15.892s
+_get_loopinfo_from_symstates: 15.922s
+get_loopinfo: 15.922s
+verify: 0.074s
+prove_nonterm_vloop: 16.029s

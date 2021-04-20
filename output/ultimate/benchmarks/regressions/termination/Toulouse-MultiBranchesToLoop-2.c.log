@@ -1,0 +1,446 @@
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 6 invs (1 Eqt, 5 Oct), 11 traces, 0 inps, time 3.10s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (6 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -z <= 8
+4. -y + z <= 8
+5. -x <= -9
+6. -x - z <= -1
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.55s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 6 invs (1 Eqt, 5 Oct), 11 traces, 0 inps, time 1.60s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (6 invs):
+1. x - 9 == 0
+2. z <= -9
+3. x <= 9
+4. x + z <= 0
+5. -x <= -9
+6. -x - z <= 9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 399 traces, 0 inps, time 1.48s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.52s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.46s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 6 invs (1 Eqt, 5 Oct), 11 traces, 0 inps, time 1.54s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (6 invs):
+1. x - 9 == 0
+2. z <= -9
+3. x <= 9
+4. x + z <= 0
+5. -x <= -9
+6. -x - z <= 10
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.49s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 168 traces, 0 inps, time 1.41s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.48s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.47s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.52s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.41s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.52s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 397 traces, 0 inps, time 1.46s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 399 traces, 0 inps, time 1.52s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.57s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.53s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.56s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 4 invs (1 Eqt, 3 Oct), 11 traces, 0 inps, time 1.70s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (4 invs):
+1. x - 9 == 0
+2. x <= 9
+3. x + z <= -10
+4. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.35s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.55s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 399 traces, 0 inps, time 1.54s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.35s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.47s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.57s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 399 traces, 0 inps, time 1.72s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.53s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.57s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.53s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.43s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.56s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.33s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.49s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.56s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.48s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.62s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.42s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.47s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 397 traces, 0 inps, time 1.54s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 397 traces, 0 inps, time 1.51s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 11 traces, 0 inps, time 1.35s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.56s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.48s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.56s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 399 traces, 0 inps, time 1.51s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.57s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.54s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.53s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.59s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.50s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.65s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.51s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.49s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.40s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.54s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.50s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.53s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.58s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618955765.27, test 67 2:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 1.57s, rand seed 1618955765.27, test 67 2:
+vtrace2_67 (3 invs):
+1. x - 9 == 0
+2. x <= 9
+3. -x <= -9
+TNT result: None
+Time log:
+gen_rand_inps: 0.169s
+_get_traces_mp: 1.975s
+_merge_traces: 8.761s
+get_traces_from_inps: 10.771s
+infer_ranking_functions: 15.425s
+prove_reach: 8.688s
+validate_ranking_functions: 8.901s
+prove_term_vloop: 24.341s
+_get_symstates_from_src: 32.160s
+_get_loopinfo_from_symstates: 24.356s
+get_loopinfo: 24.356s
+verify: 23.305s
+strengthen: 95.998s
+prove_nonterm_vloop: 148.179s

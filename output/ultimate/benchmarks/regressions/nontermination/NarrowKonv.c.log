@@ -1,0 +1,10 @@
+TNT result: True
+Time log:
+gen_rand_inps: 0.077s
+_get_traces_mp: 0.221s
+_merge_traces: 0.218s
+get_traces_from_inps: 0.440s
+infer_ranking_functions: 1.031s
+prove_reach: 59.559s
+validate_ranking_functions: 59.771s
+prove_term_vloop: 60.806s

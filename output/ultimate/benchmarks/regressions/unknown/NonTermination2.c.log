@@ -1,0 +1,194 @@
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 11 traces, 0 inps, time 4.33s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (3 invs):
+1. oldx == 0
+2. oldx <= 0
+3. -oldx <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 44 traces, 0 inps, time 1.57s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (3 invs):
+1. oldx == 0
+2. oldx <= 0
+3. -oldx <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 44 traces, 0 inps, time 1.50s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (3 invs):
+1. oldx == 0
+2. oldx <= 0
+3. -oldx <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 6 invs (1 Eqt, 5 Oct), 45 traces, 0 inps, time 1.60s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (6 invs):
+1. oldx == 0
+2. oldx <= 0
+3. oldx - x <= -2
+4. -x <= -2
+5. -oldx <= 0
+6. -oldx - x <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 44 traces, 0 inps, time 1.62s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (3 invs):
+1. oldx == 0
+2. oldx <= 0
+3. -oldx <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 44 traces, 0 inps, time 1.54s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (3 invs):
+1. oldx == 0
+2. oldx <= 0
+3. -oldx <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 44 traces, 0 inps, time 1.65s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (3 invs):
+1. oldx == 0
+2. oldx <= 0
+3. -oldx <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 6 invs (1 Eqt, 5 Oct), 45 traces, 0 inps, time 1.61s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (6 invs):
+1. oldx == 0
+2. oldx <= 0
+3. oldx - x <= -2
+4. -x <= -2
+5. -oldx <= 0
+6. -oldx - x <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 44 traces, 0 inps, time 1.62s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (3 invs):
+1. oldx == 0
+2. oldx <= 0
+3. -oldx <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 44 traces, 0 inps, time 1.71s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (3 invs):
+1. oldx == 0
+2. oldx <= 0
+3. -oldx <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 6 invs (1 Eqt, 5 Oct), 45 traces, 0 inps, time 1.71s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (6 invs):
+1. oldx == 0
+2. oldx <= 0
+3. oldx - x <= -2
+4. -x <= -2
+5. -oldx <= 0
+6. -oldx - x <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 44 traces, 0 inps, time 1.60s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (3 invs):
+1. oldx == 0
+2. oldx <= 0
+3. -oldx <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 6 invs (1 Eqt, 5 Oct), 45 traces, 0 inps, time 1.51s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (6 invs):
+1. oldx == 0
+2. oldx <= 0
+3. oldx - x <= -2
+4. -x <= -2
+5. -oldx <= 0
+6. -oldx - x <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 44 traces, 0 inps, time 1.56s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (3 invs):
+1. oldx == 0
+2. oldx <= 0
+3. -oldx <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 6 invs (1 Eqt, 5 Oct), 45 traces, 0 inps, time 1.66s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (6 invs):
+1. oldx == 0
+2. oldx <= 0
+3. oldx - x <= -2
+4. -x <= -2
+5. -oldx <= 0
+6. -oldx - x <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 44 traces, 0 inps, time 1.44s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (3 invs):
+1. oldx == 0
+2. oldx <= 0
+3. -oldx <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 6 invs (1 Eqt, 5 Oct), 45 traces, 0 inps, time 1.64s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (6 invs):
+1. oldx == 0
+2. oldx <= 0
+3. oldx - x <= -2
+4. -x <= -2
+5. -oldx <= 0
+6. -oldx - x <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 6 invs (1 Eqt, 5 Oct), 50 traces, 0 inps, time 1.58s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (6 invs):
+1. oldx == 0
+2. oldx <= 0
+3. oldx - x <= -2
+4. -x <= -2
+5. -oldx <= 0
+6. -oldx - x <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 44 traces, 0 inps, time 1.53s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (3 invs):
+1. oldx == 0
+2. oldx <= 0
+3. -oldx <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 6 invs (1 Eqt, 5 Oct), 45 traces, 0 inps, time 1.50s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (6 invs):
+1. oldx == 0
+2. oldx <= 0
+3. oldx - x <= -2
+4. -x <= -2
+5. -oldx <= 0
+6. -oldx - x <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 44 traces, 0 inps, time 1.50s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (3 invs):
+1. oldx == 0
+2. oldx <= 0
+3. -oldx <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943271.1, test 14 83:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 44 traces, 0 inps, time 1.53s, rand seed 1618943271.1, test 14 83:
+vtrace2_18 (3 invs):
+1. oldx == 0
+2. oldx <= 0
+3. -oldx <= 0
+TNT result: None
+Time log:
+gen_rand_inps: 0.071s
+_get_traces_mp: 0.431s
+_merge_traces: 2.260s
+get_traces_from_inps: 2.704s
+infer_ranking_functions: 0.159s
+prove_reach: 7.749s
+validate_ranking_functions: 7.935s
+prove_term_vloop: 8.098s
+_get_symstates_from_src: 19.483s
+_get_loopinfo_from_symstates: 19.523s
+get_loopinfo: 19.523s
+verify: 6.296s
+strengthen: 39.200s
+prove_nonterm_vloop: 67.356s

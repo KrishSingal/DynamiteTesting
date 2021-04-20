@@ -1,0 +1,15 @@
+TNT result: (False, ('vloop_23', [(ZConj({And(10 >= y, 0 <= y)}), [])]))
+Time log:
+gen_rand_inps: 0.070s
+_get_traces_mp: 0.226s
+_merge_traces: 0.118s
+get_traces_from_inps: 0.344s
+infer_ranking_functions: 0.329s
+prove_reach: 8.162s
+validate_ranking_functions: 8.372s
+prove_term_vloop: 8.712s
+_get_symstates_from_src: 18.689s
+_get_loopinfo_from_symstates: 18.723s
+get_loopinfo: 18.723s
+verify: 0.090s
+prove_nonterm_vloop: 18.848s

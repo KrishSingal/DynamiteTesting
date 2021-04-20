@@ -1,0 +1,26 @@
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618944941.83, test 11 46:
+
+*** 'None', 1 locs, 1 invs (1 Oct), 23 traces, 0 inps, time 2.03s, rand seed 1618944941.83, test 11 46:
+vtrace2_23 (1 invs):
+1. -i <= -1
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618944941.83, test 11 46:
+
+*** 'None', 1 locs, 1 invs (1 Oct), 23 traces, 0 inps, time 2.19s, rand seed 1618944941.83, test 11 46:
+vtrace2_23 (1 invs):
+1. -i <= 0
+TNT result: None
+Time log:
+gen_rand_inps: 0.168s
+_get_traces_mp: 0.680s
+_merge_traces: 0.231s
+get_traces_from_inps: 0.913s
+infer_ranking_functions: 1.008s
+prove_reach: 7.790s
+validate_ranking_functions: 7.997s
+prove_term_vloop: 9.008s
+_get_symstates_from_src: 17.250s
+_get_loopinfo_from_symstates: 17.281s
+get_loopinfo: 17.281s
+verify: 0.870s
+strengthen: 4.273s
+prove_nonterm_vloop: 22.486s

@@ -1,0 +1,111 @@
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 1 locs, 21 invs (3 Eqt, 18 Oct), 11 traces, 0 inps, time 3.28s, rand seed 1618946767.76, test 24 15:
+vtrace2_13 (21 invs):
+1. xtmp == 0
+2. x == 0
+3. tmp == 0
+4. xtmp <= 0
+5. x <= 0
+6. x - xtmp <= 0
+7. x + xtmp <= 0
+8. tmp <= 0
+9. tmp - xtmp <= 0
+10. tmp - x <= 0
+11. tmp + xtmp <= 0
+12. tmp + x <= 0
+13. -xtmp <= 0
+14. -x <= 0
+15. -x - xtmp <= 0
+16. -x + xtmp <= 0
+17. -tmp <= 0
+18. -tmp - xtmp <= 0
+19. -tmp - x <= 0
+20. -tmp + xtmp <= 0
+21. -tmp + x <= 0
+*** 'None', 0 locs, 0 invs (), 259 traces, 0 inps, time 1.96s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 1 traces, 0 inps, time 0.03s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 260 traces, 0 inps, time 2.01s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.03s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 256 traces, 0 inps, time 1.88s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 1 traces, 0 inps, time 0.02s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 261 traces, 0 inps, time 2.16s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 33 traces, 0 inps, time 0.18s, rand seed 1618946767.76, test 24 15:
+vtrace2_13 (5 invs):
+1. xtmp - y <= 0
+2. -x - y <= 0
+3. -tmp - y <= 0
+4. -tmp - xtmp <= 0
+5. -tmp + x <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 266 traces, 0 inps, time 1.97s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 1 traces, 0 inps, time 0.02s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 1 locs, 1 invs (1 Oct), 33 traces, 0 inps, time 0.16s, rand seed 1618946767.76, test 24 15:
+vtrace2_13 (1 invs):
+1. -tmp + x <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 270 traces, 0 inps, time 2.36s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 1 traces, 0 inps, time 0.02s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 259 traces, 0 inps, time 2.07s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 1 traces, 0 inps, time 0.03s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 261 traces, 0 inps, time 2.07s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 260 traces, 0 inps, time 2.09s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 1 traces, 0 inps, time 0.02s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 264 traces, 0 inps, time 2.26s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 1 locs, 2 invs (2 Oct), 33 traces, 0 inps, time 0.20s, rand seed 1618946767.76, test 24 15:
+vtrace2_13 (2 invs):
+1. xtmp - y <= 0
+2. -tmp + x <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 1 locs, 2 invs (2 Oct), 33 traces, 0 inps, time 0.15s, rand seed 1618946767.76, test 24 15:
+vtrace2_13 (2 invs):
+1. xtmp - y <= 0
+2. -tmp + x <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 266 traces, 0 inps, time 2.03s, rand seed 1618946767.76, test 24 15:
+
+*** 'None', 0 locs, 0 invs (), 1 traces, 0 inps, time 0.03s, rand seed 1618946767.76, test 24 15:
+
+TNT result: (False, ('vloop_13', [(ZConj({Not(0 == x), Not(0 == y)}), [(0, ZConj({Not(0 == y)}))])]))
+Time log:
+gen_rand_inps: 0.182s
+_get_traces_mp: 1.594s
+_merge_traces: 9.832s
+get_traces_from_inps: 11.436s
+infer_ranking_functions: 1.965s
+prove_reach: 5.200s
+validate_ranking_functions: 5.410s
+prove_term_vloop: 7.379s
+_get_symstates_from_src: 24.572s
+_get_loopinfo_from_symstates: 24.614s
+get_loopinfo: 24.614s
+verify: 14.370s
+strengthen: 28.892s
+prove_nonterm_vloop: 68.470s

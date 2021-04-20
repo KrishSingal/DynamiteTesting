@@ -1,0 +1,15 @@
+TNT result: (False, ('vloop_9', [(ZConj({And(49 >= i, 1 <= i)}), [])]))
+Time log:
+gen_rand_inps: 0.078s
+_get_traces_mp: 0.217s
+_merge_traces: 0.127s
+get_traces_from_inps: 0.345s
+infer_ranking_functions: 0.369s
+prove_reach: 7.677s
+validate_ranking_functions: 7.890s
+prove_term_vloop: 8.261s
+_get_symstates_from_src: 16.999s
+_get_loopinfo_from_symstates: 17.031s
+get_loopinfo: 17.032s
+verify: 0.082s
+prove_nonterm_vloop: 17.148s

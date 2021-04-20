@@ -1,0 +1,568 @@
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 11 invs (1 Eqt, 10 Oct), 11 traces, 0 inps, time 3.83s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (11 invs):
+1. d1old == 0
+2. d1old <= 0
+3. d1old - x <= 0
+4. -x <= 0
+5. -d1old <= 0
+6. -d1old - x <= 0
+7. -d1 <= -1
+8. -d1 - x <= -1
+9. -d1 - d1old <= -1
+10. -d1 + x <= -1
+11. -d1 + d1old <= -1
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 4 invs (4 Oct), 206 traces, 0 inps, time 1.26s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (4 invs):
+1. d1old - d2 <= 0
+2. -x <= 0
+3. -d2 - x <= 0
+4. -d1old - x <= 0
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 2.79s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 1.69s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -x <= 0
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.25s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 0 locs, 0 invs (), 400 traces, 0 inps, time 1.60s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 2 invs (2 Oct), 400 traces, 0 inps, time 1.53s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (2 invs):
+1. -x <= 0
+2. -d1old - x <= 0
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 3.06s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -d1old + d2 <= 1
+*** 'None', 1 locs, 2 invs (2 Oct), 400 traces, 0 inps, time 1.39s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (2 invs):
+1. -x <= 0
+2. -d1old - x <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 89 traces, 0 inps, time 1.38s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (5 invs):
+1. d1old - d2 <= 0
+2. -x <= 0
+3. -d2 - x <= 0
+4. -d1old - x <= 0
+5. -d1 - d2 <= 0
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 3.38s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -d1old + d2 <= 1
+*** 'None', 0 locs, 0 invs (), 400 traces, 0 inps, time 1.52s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.50s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 1.29s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -d1old - x <= -6
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.28s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 0 locs, 0 invs (), 400 traces, 0 inps, time 1.40s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.05s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 2 invs (2 Oct), 400 traces, 0 inps, time 1.60s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (2 invs):
+1. -x <= -1
+2. -d1old - x <= -1
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.15s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 1.59s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. d1old - d2 <= -1
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 2.90s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 4 invs (4 Oct), 400 traces, 0 inps, time 1.52s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (4 invs):
+1. d1old - d2 <= -1
+2. -x <= -1
+3. -d2 - x <= -3
+4. -d1old - x <= -2
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 2.89s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 1.54s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -d1old - x <= -4
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.26s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 2 invs (2 Oct), 400 traces, 0 inps, time 1.42s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (2 invs):
+1. -x <= -1
+2. -d1old - x <= -1
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.16s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 2 invs (2 Oct), 400 traces, 0 inps, time 1.42s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (2 invs):
+1. -x <= -2
+2. -d1old - x <= -1
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 400 traces, 0 inps, time 1.56s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (5 invs):
+1. d1old - x <= 5
+2. d1old - d2 <= 0
+3. -x <= 0
+4. -d2 - x <= 0
+5. -d1old - x <= 0
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 22 traces, 0 inps, time 1.65s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (5 invs):
+1. d1old - d2 <= 0
+2. -x <= 0
+3. -d2 - x <= 0
+4. -d1old - x <= 0
+5. -d1 - d2 <= 0
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 2.85s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 2 invs (2 Oct), 400 traces, 0 inps, time 1.54s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (2 invs):
+1. -d1old - x <= 0
+2. -d1old + d2 <= 1
+*** 'None', 1 locs, 6 invs (2 Eqt, 4 Oct), 400 traces, 0 inps, time 3.43s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (6 invs):
+1. d1old*x - d2*x + x == 0
+2. d1*d1old - d1*d2 + d1 + 270*d1old - 270*d2 + 270 == 0
+3. d1old - x <= 0
+4. -x <= 0
+5. -d1old - x <= 0
+6. -d1old + d2 <= 1
+*** 'None', 1 locs, 4 invs (4 Oct), 66 traces, 0 inps, time 1.34s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (4 invs):
+1. d1 - x <= 9
+2. -x <= 0
+3. -d1old - x <= 0
+4. -d1old + d2 <= 1
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.34s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 1.36s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -x <= -1
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.46s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 1.53s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -x <= 0
+*** 'None', 1 locs, 6 invs (1 Eqt, 5 Oct), 400 traces, 0 inps, time 3.32s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (6 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d2 - x <= -1
+4. -d1old - x <= 0
+5. -d1old + d2 <= 1
+6. -d1 - x <= -1
+*** 'None', 1 locs, 4 invs (4 Oct), 400 traces, 0 inps, time 1.48s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (4 invs):
+1. -x <= 0
+2. -d1old - x <= 0
+3. -d1old + d2 <= 1
+4. -d1 - x <= 4
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 3 invs (3 Oct), 400 traces, 0 inps, time 1.52s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. -x <= 0
+2. -d1old - x <= 0
+3. -d1old + d2 <= 1
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 22 invs (2 Eqt, 20 Oct), 11 traces, 0 inps, time 1.65s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (22 invs):
+1. d2 - 1 == 0
+2. d1old == 0
+3. d2 <= 1
+4. d2 - x <= 1
+5. d1old <= 0
+6. d1old - x <= 0
+7. d1old - d2 <= -1
+8. d1old + d2 <= 1
+9. -x <= 0
+10. -d2 <= -1
+11. -d2 - x <= -1
+12. -d1old <= 0
+13. -d1old - x <= 0
+14. -d1old - d2 <= -1
+15. -d1old + d2 <= 1
+16. -d1 <= -1
+17. -d1 - x <= -1
+18. -d1 - d2 <= -2
+19. -d1 - d1old <= -1
+20. -d1 + x <= -1
+21. -d1 + d2 <= 0
+22. -d1 + d1old <= -1
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 22 invs (2 Eqt, 20 Oct), 11 traces, 0 inps, time 1.79s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (22 invs):
+1. d2 - 1 == 0
+2. d1old == 0
+3. d2 <= 1
+4. d2 - x <= 1
+5. d1old <= 0
+6. d1old - x <= 0
+7. d1old - d2 <= -1
+8. d1old + d2 <= 1
+9. -x <= 0
+10. -d2 <= -1
+11. -d2 - x <= -1
+12. -d1old <= 0
+13. -d1old - x <= 0
+14. -d1old - d2 <= -1
+15. -d1old + d2 <= 1
+16. -d1 <= -1
+17. -d1 - x <= -1
+18. -d1 - d2 <= -2
+19. -d1 - d1old <= -1
+20. -d1 + x <= -1
+21. -d1 + d2 <= 0
+22. -d1 + d1old <= -1
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.17s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 1.28s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -x <= -2
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.59s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 2 invs (2 Oct), 400 traces, 0 inps, time 1.47s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (2 invs):
+1. -d2 - x <= 8
+2. -d1 - x <= 4
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.03s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 3 invs (3 Oct), 400 traces, 0 inps, time 1.40s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. -x <= -4
+2. -d2 - x <= -3
+3. -d1old - x <= -2
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.43s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 2 invs (2 Oct), 400 traces, 0 inps, time 1.59s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (2 invs):
+1. -x <= -1
+2. -d1old - x <= -1
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 16 invs (1 Eqt, 15 Oct), 11 traces, 0 inps, time 1.56s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (16 invs):
+1. d1old == 0
+2. d2 <= 0
+3. d2 - x <= 0
+4. d1old <= 0
+5. d1old - x <= 0
+6. d1old + d2 <= 0
+7. -x <= 0
+8. -d1old <= 0
+9. -d1old - x <= 0
+10. -d1old + d2 <= 0
+11. -d1 <= -1
+12. -d1 - x <= -1
+13. -d1 - d1old <= -1
+14. -d1 + x <= -1
+15. -d1 + d2 <= -1
+16. -d1 + d1old <= -1
+*** 'None', 1 locs, 4 invs (4 Oct), 400 traces, 0 inps, time 3.23s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (4 invs):
+1. d1 - d2 <= 1
+2. d1 - d1old <= 2
+3. -d1old + d2 <= 1
+4. -d1 + d2 <= 1
+*** 'None', 1 locs, 6 invs (6 Oct), 400 traces, 0 inps, time 1.58s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (6 invs):
+1. d1old - d2 <= 1
+2. -x <= 0
+3. -d2 - x <= 1
+4. -d1old - x <= 0
+5. -d1old + d2 <= 1
+6. -d1 - x <= 0
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 3.49s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -d1old + d2 <= 1
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 1.41s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -d1old - x <= -2
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.40s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 3 invs (3 Oct), 400 traces, 0 inps, time 1.58s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. -x <= 0
+2. -d1old - x <= -2
+3. -d1old + d2 <= 4
+*** 'None', 1 locs, 5 invs (5 Oct), 400 traces, 0 inps, time 3.26s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (5 invs):
+1. d1 - d2 <= 1
+2. d1 - d1old <= 2
+3. -d1old - x <= 0
+4. -d1old + d2 <= 1
+5. -d1 + d2 <= 1
+*** 'None', 1 locs, 6 invs (1 Eqt, 5 Oct), 400 traces, 0 inps, time 1.69s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (6 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d2 - x <= -1
+4. -d1old - x <= 0
+5. -d1old + d2 <= 1
+6. -d1 - x <= 0
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 3.37s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -d1old + d2 <= 1
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 1.37s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -d2 - x <= 6
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 3.27s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -d1old + d2 <= 1
+*** 'None', 0 locs, 0 invs (), 400 traces, 0 inps, time 1.66s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.03s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 16 invs (16 Oct), 64 traces, 0 inps, time 1.45s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (16 invs):
+1. d1old - d2 <= 2
+2. d1 - d2 <= 6
+3. d1 - d1old <= 7
+4. -x <= 0
+5. -d2 <= 3
+6. -d2 - x <= 2
+7. -d1old <= 4
+8. -d1old - x <= 0
+9. -d1old - d2 <= 7
+10. -d1old + d2 <= 2
+11. -d1 <= 4
+12. -d1 - x <= 4
+13. -d1 - d2 <= 2
+14. -d1 - d1old <= 4
+15. -d1 + d2 <= 6
+16. -d1 + d1old <= 5
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 3.26s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -d1old + d2 <= 1
+*** 'None', 1 locs, 2 invs (2 Oct), 400 traces, 0 inps, time 1.48s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (2 invs):
+1. d1old - d2 <= 10
+2. -d2 - x <= 1
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.41s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 1.51s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -x <= 0
+*** 'None', 1 locs, 3 invs (3 Oct), 400 traces, 0 inps, time 2.87s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. -d2 - x <= -10
+2. -d1old + d2 <= 1
+3. -d1 - x <= 2
+*** 'None', 0 locs, 0 invs (), 400 traces, 0 inps, time 1.48s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 13 invs (1 Eqt, 12 Oct), 11 traces, 0 inps, time 1.52s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (13 invs):
+1. d1old == 0
+2. d2 - x <= 0
+3. d1old <= 0
+4. d1old - x <= 0
+5. -x <= 0
+6. -d1old <= 0
+7. -d1old - x <= 0
+8. -d1 <= -1
+9. -d1 - x <= -1
+10. -d1 - d1old <= -1
+11. -d1 + x <= -1
+12. -d1 + d2 <= -1
+13. -d1 + d1old <= -1
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.10s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 0 locs, 0 invs (), 400 traces, 0 inps, time 1.22s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.35s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 1.56s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -d1old - x <= -1
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 22 invs (2 Eqt, 20 Oct), 11 traces, 0 inps, time 1.61s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (22 invs):
+1. d2 - 1 == 0
+2. d1old == 0
+3. d2 <= 1
+4. d2 - x <= 1
+5. d1old <= 0
+6. d1old - x <= 0
+7. d1old - d2 <= -1
+8. d1old + d2 <= 1
+9. -x <= 0
+10. -d2 <= -1
+11. -d2 - x <= -1
+12. -d1old <= 0
+13. -d1old - x <= 0
+14. -d1old - d2 <= -1
+15. -d1old + d2 <= 1
+16. -d1 <= -1
+17. -d1 - x <= -1
+18. -d1 - d2 <= -2
+19. -d1 - d1old <= -1
+20. -d1 + x <= -1
+21. -d1 + d2 <= 0
+22. -d1 + d1old <= -1
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 16 invs (2 Eqt, 14 Oct), 11 traces, 0 inps, time 1.78s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (16 invs):
+1. d2 - 1 == 0
+2. d1old == 0
+3. d2 <= 1
+4. d2 - x <= 1
+5. d1old <= 0
+6. d1old - x <= 0
+7. d1old - d2 <= -1
+8. d1old + d2 <= 1
+9. -x <= 0
+10. -d2 <= -1
+11. -d2 - x <= -1
+12. -d1old <= 0
+13. -d1old - x <= 0
+14. -d1old - d2 <= -1
+15. -d1old + d2 <= 1
+16. -d1 + x <= -1
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 3.39s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -d1old + d2 <= 1
+*** 'None', 1 locs, 3 invs (3 Oct), 400 traces, 0 inps, time 1.48s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 <= -1
+2. -d2 - x <= -1
+3. -d1old - x <= 0
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.14s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 3 invs (3 Oct), 400 traces, 0 inps, time 1.76s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. -x <= 0
+2. -d1old - x <= -2
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 3 invs (3 Oct), 400 traces, 0 inps, time 3.13s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. -d2 - x <= -10
+2. -d1old + d2 <= 1
+3. -d1 - x <= 2
+*** 'None', 1 locs, 2 invs (2 Oct), 400 traces, 0 inps, time 1.63s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (2 invs):
+1. -x <= -1
+2. -d2 - x <= -3
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 3.14s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -d1old + d2 <= 1
+*** 'None', 1 locs, 2 invs (2 Oct), 400 traces, 0 inps, time 1.23s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (2 invs):
+1. -x <= -1
+2. -d1old - x <= -1
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 400 traces, 0 inps, time 3.15s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - d2 + 1 == 0
+2. d1old - d2 <= -1
+3. -d1old + d2 <= 1
+*** 'None', 1 locs, 3 invs (3 Oct), 400 traces, 0 inps, time 1.64s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. d1old - x <= 1
+2. -x <= -5
+3. -d1old - x <= -1
+*** 'None', 1 locs, 3 invs (3 Oct), 400 traces, 0 inps, time 3.47s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (3 invs):
+1. -d2 - x <= -10
+2. -d1old + d2 <= 1
+3. -d1 - x <= 2
+*** 'None', 1 locs, 1 invs (1 Oct), 400 traces, 0 inps, time 1.36s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (1 invs):
+1. -d2 - x <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618954998.22, test 6 49:
+
+*** 'None', 1 locs, 16 invs (2 Eqt, 14 Oct), 11 traces, 0 inps, time 1.77s, rand seed 1618954998.22, test 6 49:
+vtrace2_21 (16 invs):
+1. d2 - 1 == 0
+2. d1old == 0
+3. d2 <= 1
+4. d2 - x <= 1
+5. d1old <= 0
+6. d1old - x <= 0
+7. d1old - d2 <= -1
+8. d1old + d2 <= 1
+9. -x <= 0
+10. -d2 <= -1
+11. -d2 - x <= -1
+12. -d1old <= 0
+13. -d1old - x <= 0
+14. -d1old - d2 <= -1
+15. -d1old + d2 <= 1
+16. -d1 + x <= -1

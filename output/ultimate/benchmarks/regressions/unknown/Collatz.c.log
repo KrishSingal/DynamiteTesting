@@ -1,0 +1,20 @@
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618943194.58, test 33 2:
+
+*** 'None', 0 locs, 0 invs (), 1 traces, 0 inps, time 0.01s, rand seed 1618943194.58, test 33 2:
+
+TNT result: None
+Time log:
+gen_rand_inps: 0.097s
+_get_traces_mp: 0.209s
+_merge_traces: 0.115s
+get_traces_from_inps: 0.325s
+infer_ranking_functions: 2.790s
+prove_reach: 8.770s
+validate_ranking_functions: 8.982s
+prove_term_vloop: 11.782s
+_get_symstates_from_src: 26.169s
+_get_loopinfo_from_symstates: 26.202s
+get_loopinfo: 26.202s
+verify: 0.125s
+strengthen: 0.037s
+prove_nonterm_vloop: 26.382s

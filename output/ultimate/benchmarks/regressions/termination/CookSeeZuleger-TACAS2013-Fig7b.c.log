@@ -1,0 +1,244 @@
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 3 invs (1 Eqt, 2 Oct), 11 traces, 0 inps, time 3.81s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (3 invs):
+1. x - 1 == 0
+2. x <= 1
+3. -x <= -1
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 7 invs (7 Oct), 22 traces, 0 inps, time 1.32s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (7 invs):
+1. x <= 2
+2. x - z <= -7
+3. x - y <= -8
+4. -z <= -9
+5. -y <= -10
+6. -x <= -1
+7. -x - z <= -10
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 7 invs (7 Oct), 22 traces, 0 inps, time 1.45s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (7 invs):
+1. x <= 2
+2. x - z <= -7
+3. x - y <= -8
+4. -z <= -9
+5. -y <= -10
+6. -x <= -1
+7. -x - z <= -10
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 9 invs (9 Oct), 22 traces, 0 inps, time 1.26s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (9 invs):
+1. z <= 8
+2. x <= 2
+3. x - y <= -7
+4. x + z <= 10
+5. -y <= -9
+6. -y + z <= -1
+7. -x <= -1
+8. -x - y <= -10
+9. -x + z <= 7
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 352 traces, 0 inps, time 1.40s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (5 invs):
+1. -z <= -2
+2. -y <= -1
+3. -y - z <= -3
+4. -x <= -1
+5. -x - y <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 12 invs (12 Oct), 22 traces, 0 inps, time 1.29s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (12 invs):
+1. y <= 9
+2. y - z <= -7
+3. x <= 2
+4. x - z <= -7
+5. x - y <= 1
+6. -z <= -9
+7. -y <= -1
+8. -y - z <= -10
+9. -x <= -1
+10. -x - z <= -10
+11. -x - y <= -2
+12. -x + y <= 8
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 9 invs (9 Oct), 22 traces, 0 inps, time 1.38s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (9 invs):
+1. z <= 8
+2. x <= 2
+3. x - y <= -7
+4. x + z <= 10
+5. -y <= -9
+6. -y + z <= -1
+7. -x <= -1
+8. -x - y <= -10
+9. -x + z <= 7
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 8 invs (8 Oct), 22 traces, 0 inps, time 1.38s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (8 invs):
+1. y <= 9
+2. y - z <= 0
+3. x <= 2
+4. x - z <= -7
+5. -z <= -9
+6. -x <= -1
+7. -x - z <= -10
+8. -x + y <= 8
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 348 traces, 0 inps, time 1.59s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (5 invs):
+1. x - y <= -7
+2. -z <= -1
+3. -y <= -9
+4. -x <= -1
+5. -x - z <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 33 traces, 0 inps, time 1.38s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (5 invs):
+1. x <= 3
+2. x - z <= -7
+3. x - y <= -8
+4. -z <= -10
+5. -x <= -1
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 13 invs (13 Oct), 22 traces, 0 inps, time 1.29s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (13 invs):
+1. z <= 7
+2. x <= 2
+3. x - z <= 1
+4. x - y <= 1
+5. x + z <= 9
+6. -z <= -1
+7. -y <= -1
+8. -y - z <= -2
+9. -y + z <= 5
+10. -x <= -1
+11. -x - z <= -2
+12. -x - y <= -2
+13. -x + z <= 6
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 12 invs (12 Oct), 22 traces, 0 inps, time 1.43s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (12 invs):
+1. z <= 8
+2. x <= 2
+3. x - z <= 1
+4. x - y <= -7
+5. x + z <= 10
+6. -z <= -1
+7. -y <= -9
+8. -y + z <= -1
+9. -x <= -1
+10. -x - z <= -2
+11. -x - y <= -10
+12. -x + z <= 7
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 6 invs (6 Oct), 357 traces, 0 inps, time 1.54s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (6 invs):
+1. -z <= -2
+2. -y <= -1
+3. -y - z <= -3
+4. -x <= -1
+5. -x - z <= -3
+6. -x - y <= -2
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 8 invs (8 Oct), 22 traces, 0 inps, time 1.47s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (8 invs):
+1. y <= 9
+2. y - z <= 0
+3. x <= 2
+4. x - z <= -7
+5. -z <= -9
+6. -x <= -1
+7. -x - z <= -10
+8. -x + y <= 8
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 8 invs (8 Oct), 22 traces, 0 inps, time 1.48s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (8 invs):
+1. z <= 8
+2. x <= 2
+3. x - y <= -8
+4. x + z <= 10
+5. -y <= -10
+6. -y + z <= -2
+7. -x <= -1
+8. -x + z <= 7
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 11 invs (11 Oct), 22 traces, 0 inps, time 1.20s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (11 invs):
+1. y <= 9
+2. y - z <= 0
+3. x <= 2
+4. x - z <= -7
+5. x - y <= 1
+6. -z <= -9
+7. -y <= -1
+8. -x <= -1
+9. -x - z <= -10
+10. -x - y <= -2
+11. -x + y <= 8
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 6 invs (6 Oct), 330 traces, 0 inps, time 1.48s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (6 invs):
+1. x - y <= -7
+2. -z <= -1
+3. -y <= -9
+4. -x <= -1
+5. -x - z <= -2
+6. -x - y <= -10
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 5 invs (5 Oct), 33 traces, 0 inps, time 1.44s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (5 invs):
+1. x <= 3
+2. x - z <= -7
+3. x - y <= -8
+4. -z <= -10
+5. -x <= -1
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.02s, rand seed 1618951229.62, test 70 77:
+
+*** 'None', 1 locs, 13 invs (13 Oct), 22 traces, 0 inps, time 1.40s, rand seed 1618951229.62, test 70 77:
+vtrace2_20 (13 invs):
+1. z <= 3
+2. x <= 2
+3. x - z <= 1
+4. x - y <= 1
+5. x + z <= 5
+6. -z <= -1
+7. -y <= -1
+8. -y - z <= -2
+9. -y + z <= 2
+10. -x <= -1
+11. -x - z <= -2
+12. -x - y <= -2
+13. -x + z <= 2
+TNT result: None
+Time log:
+gen_rand_inps: 0.501s
+_get_traces_mp: 1.633s
+_merge_traces: 1.709s
+get_traces_from_inps: 3.356s
+infer_ranking_functions: 2.366s
+prove_reach: 8.406s
+validate_ranking_functions: 8.595s
+prove_term_vloop: 10.964s
+_get_symstates_from_src: 39.285s
+_get_loopinfo_from_symstates: 39.328s
+get_loopinfo: 39.328s
+verify: 41.318s
+strengthen: 30.618s
+prove_nonterm_vloop: 114.910s

@@ -1,0 +1,33 @@
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618949078.48, test 69 46:
+
+*** 'None', 1 locs, 5 invs (1 Eqt, 4 Oct), 100 traces, 0 inps, time 3.03s, rand seed 1618949078.48, test 69 46:
+vtrace2_21 (5 invs):
+1. -y1 + 2*y2 == 0
+2. -y2 <= -1
+3. -y1 <= -2
+4. -y1 - y2 <= -3
+5. -y1 + y2 <= -1
+*** 'None', 0 locs, 0 invs (), 0 traces, 0 inps, time 0.01s, rand seed 1618949078.48, test 69 46:
+
+*** 'None', 1 locs, 4 invs (4 Oct), 200 traces, 0 inps, time 1.47s, rand seed 1618949078.48, test 69 46:
+vtrace2_21 (4 invs):
+1. -y2 <= -1
+2. -y1 <= -2
+3. -y1 - y2 <= -3
+4. -y1 + y2 <= -1
+TNT result: (False, ('vloop_21', [(ZConj({Not(y2 >= 1), Not(0 == y1 + -1*y2)}), [(0, ZConj({Not(0 == y1 + -1*y2)}))])]))
+Time log:
+gen_rand_inps: 0.167s
+_get_traces_mp: 0.707s
+_merge_traces: 0.412s
+get_traces_from_inps: 1.121s
+infer_ranking_functions: 6.758s
+prove_reach: 7.423s
+validate_ranking_functions: 7.651s
+prove_term_vloop: 14.415s
+_get_symstates_from_src: 20.038s
+_get_loopinfo_from_symstates: 20.079s
+get_loopinfo: 20.079s
+verify: 5.018s
+strengthen: 5.377s
+prove_nonterm_vloop: 30.603s
